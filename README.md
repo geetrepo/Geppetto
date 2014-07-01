@@ -6,5 +6,5 @@ Blender auto-rigging and weighting tool
 
 #### Screenshot ####
 
-![gepetto]
-(https://cloud.githubusercontent.com/assets/3676827/3054529/28841cda-e1b8-11e3-91e1-d3ed65956393.png)
+![geppetto]
+(https://cloud.githubusercontent.com/assets/3676827/3445816/f9388180-013a-11e4-8258-035e17085793.jpg)
