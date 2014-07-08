@@ -1,7 +1,13 @@
 Geppetto
 ========
 
-Blender auto-rigging and weighting tool
+Blender auto-rigging and weighting tool add-on
+
+
+#### Overview ####
+
+- Support for basic armature such as character rigs for games and pose animation.
+
 
 
 #### Donations ####
