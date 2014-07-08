@@ -5,6 +5,9 @@ Blender auto-rigging and weighting tool
 
 
 #### Donations ####
+
+If you are interested in supporting and accelerating this project, I have put up a crowdfunding campaign on Pledgie for donations.
+
 <a href='https://pledgie.com/campaigns/25893'><img alt='Click here to lend your support to: Geppetto Auto-Rigging Tool for Blender and make a donation at pledgie.com !' src='https://pledgie.com/campaigns/25893.png?skin_name=chrome' border='0' ></a>
 
 
