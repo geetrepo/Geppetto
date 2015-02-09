@@ -24,6 +24,11 @@ If you are interested in supporting and accelerating this project, I have put up
 ![geppetto]
 (https://cloud.githubusercontent.com/assets/3676827/3445816/f9388180-013a-11e4-8258-035e17085793.jpg)
 
+#### Discussion ####
+
+Official Forum Channel
+http://forum.rastercode.com/conversations/gepetto-auto-rigging-tool
+
 #### Video ####
 
 [![Geppetto Auto-Rigging Tool Introduction Video]
